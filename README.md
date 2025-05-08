@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roman Kalenoff, 
-- 👀 I’m interested in machine learning, NLP, knowledge representation and more.
+- 👀 I’m interested in machine learning, knowledge representation, NLP and more.
 
 <!---
 Kalenoff/Kalenoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
