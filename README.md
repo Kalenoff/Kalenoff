@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roman Kalenoff, 
-- 👀 I’m interested in machine learning, knowledge representation, system engineering and more.
+- 👀 I’m interested in applied machine learning, system engineering, knowledge representation, and more.
 
 <!---
 Kalenoff/Kalenoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
